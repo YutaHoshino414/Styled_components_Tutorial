@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 const Navbar = () => {
   return ( 
-    <div>
       <Container>
         <Wrapper>
           <Left>
@@ -18,7 +17,6 @@ const Navbar = () => {
           <Button>JOIN TODAY</Button>
         </Wrapper>
       </Container>
-    </div>
   );
 }
 
@@ -40,7 +38,6 @@ const Left = styled.div`
     justify-content: space-between;
 `
 const Logo = styled.h1`
-    margin: 10px;
     font-weight: bold;
     text-decoration: underline crimson;
 `
