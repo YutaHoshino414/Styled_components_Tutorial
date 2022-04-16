@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/Styled_components_Tutorial/static/css/main.cbabc956.css",
-    "main.js": "/Styled_components_Tutorial/static/js/main.98e669dd.js",
+    "main.js": "/Styled_components_Tutorial/static/js/main.f23ed7ab.js",
     "static/media/removebg-preview.png": "/Styled_components_Tutorial/static/media/removebg-preview.c05eb5dbd7e48d9992a8.png",
+    "static/media/Apple-iPhone.png": "/Styled_components_Tutorial/static/media/Apple-iPhone.7da896c31dc8234693d0.png",
     "index.html": "/Styled_components_Tutorial/index.html",
     "main.cbabc956.css.map": "/Styled_components_Tutorial/static/css/main.cbabc956.css.map",
-    "main.98e669dd.js.map": "/Styled_components_Tutorial/static/js/main.98e669dd.js.map"
+    "main.f23ed7ab.js.map": "/Styled_components_Tutorial/static/js/main.f23ed7ab.js.map"
   },
   "entrypoints": [
     "static/css/main.cbabc956.css",
-    "static/js/main.98e669dd.js"
+    "static/js/main.f23ed7ab.js"
   ]
 }
