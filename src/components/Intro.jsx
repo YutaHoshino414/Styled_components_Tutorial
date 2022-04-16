@@ -1,11 +1,12 @@
 import styled from "styled-components";
 import woman from '../images/removebg-preview.png'
+import AnimateShapes from "./AnimateShapes";
 
 const Intro = () => {
   return ( 
     <Container>
       <Left>
-        <Title>Adventures in Creative Age</Title>
+        <Title>Adventures </Title><Title>in Creative Age</Title>
         <Descript>We believe that designing products and services in close partnership
             with our clients is the only way to have a real impact on their business.
         </Descript>
@@ -18,6 +19,7 @@ const Intro = () => {
       </Info>
       </Left>
       <Right><Image src={woman}></Image></Right>
+      <AnimateShapes />
     </Container>
   );
 }
@@ -37,16 +39,19 @@ const Left = styled.div`
     justify-content: center;
 `
 const Title = styled.h1`
-    font-size: 80px;
-    width: 60%;
+    font-size: 70px;
+    width: 80%;
+    line-height: 90px;
 `
 const Descript = styled.div`
-    width: 60%;
-    font-size: 20px;
+    width: 80%;
+    font-size: 18px;
+    color: gray;
+    margin-top: 20px;
 `
 const Info = styled.div`
-    width: 50%;
-    margin-top: 30px;
+    width: 80%;
+    margin-top: 40px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -64,6 +69,7 @@ const Button = styled.button`
 const Contact = styled.div`
     display: flex;
     flex-direction: column;
+    margin-right: 10%;
 `
 const Phone = styled.span`
     color: #f0667d;

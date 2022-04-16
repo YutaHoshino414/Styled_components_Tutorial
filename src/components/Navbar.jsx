@@ -46,7 +46,7 @@ const Menu = styled.ul`
     list-style: none;
 `;
 const MenuItem = styled.li`
-    margin-right: 30px;
+    margin-left: 30px;
     font-size: 20px;
     font-weight: bold;
     color: gray;
