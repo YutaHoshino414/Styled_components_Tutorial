@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Styled_components_Tutorial/static/css/main.cbabc956.css",
+    "main.js": "/Styled_components_Tutorial/static/js/main.98e669dd.js",
+    "static/media/removebg-preview.png": "/Styled_components_Tutorial/static/media/removebg-preview.c05eb5dbd7e48d9992a8.png",
+    "index.html": "/Styled_components_Tutorial/index.html",
+    "main.cbabc956.css.map": "/Styled_components_Tutorial/static/css/main.cbabc956.css.map",
+    "main.98e669dd.js.map": "/Styled_components_Tutorial/static/js/main.98e669dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbabc956.css",
+    "static/js/main.98e669dd.js"
+  ]
+}
