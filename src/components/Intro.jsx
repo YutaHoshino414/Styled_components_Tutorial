@@ -4,20 +4,20 @@ import woman from '../images/removebg-preview.png'
 const Intro = () => {
   return ( 
     <Container>
-        <Left>
-            <Title>Adventures in Creative Age</Title>
-            <Descript>We believe that designing products and services in close partnership
-                with our clients is the only way to have a real impact on their business.
-            </Descript>
-        <Info>
-            <Button>START A PROJECT</Button>
-            <Contact>
-            <Phone>Call Us (012) 345 - 6789</Phone>
-            <ContactText>For any question or concern</ContactText>
-            </Contact>
-        </Info>
-        </Left>
-        <Right><Image src={woman}></Image></Right>
+      <Left>
+        <Title>Adventures in Creative Age</Title>
+        <Descript>We believe that designing products and services in close partnership
+            with our clients is the only way to have a real impact on their business.
+        </Descript>
+      <Info>
+        <Button>START A PROJECT</Button>
+        <Contact>
+        <Phone>Call Us (012) 345 - 6789</Phone>
+        <ContactText>For any question or concern</ContactText>
+        </Contact>
+      </Info>
+      </Left>
+      <Right><Image src={woman}></Image></Right>
     </Container>
   );
 }
