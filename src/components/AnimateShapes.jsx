@@ -38,7 +38,7 @@ const Circle = styled.div`
     background-color: #ff97af;
     opacity: 0.7;
     position: absolute;
-    top: 350px;
+    top: 300px;
     left: -100px;
     z-index: -1;
     animation: circle 25s linear alternate infinite;
